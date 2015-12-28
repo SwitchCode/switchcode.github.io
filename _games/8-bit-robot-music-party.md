@@ -9,7 +9,7 @@ website: "innovgame.efrei.fr/concours/rendu/2011/SwitchCode/"
 
 platforms:
   - name: "PC (FR)"
-    link: "http://innovgame.efrei.fr/concours/rendu/2011/SwitchCode/index.html#telecharger"
+    link: "innovgame.efrei.fr/concours/rendu/2011/SwitchCode/index.html#telecharger"
 
 description: "8-Bit Robot Music Party (8RMP) is a rythm/platform game where you and your friend (we hope you have any) help your third (virtual) friend who is stuck in the game. The first player has to deal with the music like a Guitar Hero while the second plays, mario-style, with the little robot Everbot. The players must finish the level before the end of the music."
 
@@ -36,18 +36,18 @@ awards:
 
 quotes:
   - description: "An interview of SwitchCode by a French blogger."
-    name: "Innov'game, les dev's en interview #1 : Switch Code"
+    name: "hairaz (@hairazTweet)"
     website: "Blog: [Press Space to continue]"
-    link: "http://www.gameblog.fr/blogs/hairaz/p_35675_innov-game-les-dev-s-en-interview-1-switch-code"
+    link: "www.gameblog.fr/blogs/hairaz/p_35675_innov-game-les-dev-s-en-interview-1-switch-code"
   - description: "An article written by a Twitter friend."
-    name: "@outadoc"
+    name: "outadoc (@outadoc)"
     website: "outadoc.fr"
-    link: "https://outadoc.fr/2011/05/innovgame-2011-8-bit-robot-music-party-a-la-gloire-de-la-coop/"
+    link: "outadoc.fr/2011/05/innovgame-2011-8-bit-robot-music-party-a-la-gloire-de-la-coop/"
 
 additionals:
   - title: "Dev blog"
     description: "Not active since the contest, but can be a useful archive"
-    link: "http://8bitrobotmusicparty.blogspot.com/"
+    link: "8bitrobotmusicparty.blogspot.com/"
 
 credits:
   - person: "Alexis Launay"
