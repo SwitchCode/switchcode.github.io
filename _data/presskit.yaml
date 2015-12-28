@@ -1,86 +1,57 @@
-title: "Company Name"
-founded: "September 1, 2010"
-website: "website.com"
-city: "Cityville, Metropolisland"
-press: "press-contact@company.com"
-phone: "+00 (1) 22 33 44 55 66"
+title: "SwitchCode"
+founded: "Around 2010"
+website: "switchcode.github.io"
+city: "Rennes, France"
+press: "contact@jeuxamateurs.fr"
 address: 
-  - "Address Line 1"
-  - "Address Line 2"
-  - "Address Line 3"
+  - "The Internet"
 
 social: 
-  twitter: "MyTwitter"
-  facebook: "facebook.com/MyCompanyName"
-  skype: "callto:MySkypeName"
+  twitter: "SwitchCode"
+  facebook: "facebook.com/SwitchCode"
 
-description: "We're a games studio and we make games. We're also capable of editing YAML files."
+description: "Indie development team trying to do something with computers. We made several games during contest or not. Not very active lately but we're trying to do our best to get JeuxAmateurs.fr, our main project, back!"
 
 history: 
-  - header: "Early history"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel nisi dolor. Pellentesque vitae eros velit, quis venenatis orci. Phasellus elit urna, semper ut gravida et, porta non dui. Aliquam erat volutpat. Aenean porta volutpat imperdiet. Maecenas venenatis, tellus eget vehicula vulputate, augue erat elementum quam, tincidunt laoreet magna orci et mauris. Proin porttitor pharetra nisi, accumsan sollicitudin neque varius a. Aenean ut massa ipsum, id hendrerit lacus. Maecenas posuere egestas nunc at cursus. Etiam mollis libero vel eros pulvinar aliquam. Sed vitae turpis sed nibh venenatis dictum. Sed suscipit orci justo, at sagittis ante. Sed leo nisl, ultricies in fermentum id, aliquam id dolor. Ut laoreet, felis id posuere bibendum, arcu ipsum lacinia est, eu lobortis velit enim eget mi. In ullamcorper ullamcorper enim ut gravida. Vivamus rutrum lacus mollis risus malesuada iaculis."
-  - header: "After that"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sem dui, volutpat eu adipiscing sed, rutrum aliquam lacus. Proin sollicitudin consequat dolor id dignissim. Aliquam sem turpis, sagittis lobortis viverra eget, varius vitae nunc. Proin ac lacus porttitor dui sollicitudin elementum. Nulla ut hendrerit est. Fusce vitae arcu erat, vel molestie est. Proin et placerat justo. Proin placerat arcu massa, eu blandit leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam eu lorem sed massa lobortis hendrerit vitae vel odio. Maecenas eget pulvinar tortor. Nunc vitae nisl ac odio bibendum luctus ac a leo. Suspendisse auctor elit et velit sagittis vehicula. Maecenas faucibus blandit rutrum. Duis et sem nibh. Vestibulum placerat elit et dui rhoncus accumsan."
+  - header: "The beginning"
+    text: "We learnt how to code in the end of the secondary school and started some projects in highschool. We took part in game jams when we experimented to code some weird games with friends."
+  - header: "Now"
+    text: "We're working on JeuxAmateurs.fr, a website about indie/amateur games where people can share about video games. We're trying to write more on this presskit too!"
 
 trailers: 
-  - name: "This video is nice"
-    youtube: "7jQbITg0MSk"
-  - name: "This one too"
-    youtube: "0CevOaYrYDA"
-    vimeo: "12536488"
+  - name: "Alexis (YoruNoHikage) at Global Game Jam 2015 in Rennes, France. (FR only)"
+    youtube: "XqUWs8QsxRE"
 
 awards: 
-  - description: "Winner in this highly relevant contest."
-    info: "Award Location, 20 October, 1989"
-  - description: "Nomination for this prestigious award."
-    info: "Award Ceremony, 4 December, 1991"
-  - description: "Winner in this highly relevant contest."
-    info: "Award Location, 20 October, 1989"
-  - description: "Nomination for this prestigious award."
-    info: "Award Ceremony, 4 December, 1991"
+  - description: "Second in software category, special and favorite prizes from the jury."
+    info: "8-Bit Robot Music Party, INNOV'Game Contest - May, 2011"
 
 quotes: 
-  - description: "This is a rather insignificant quote by a highly important person."
-    name: "Person Name"
-    website: Website
-    link: "http://www.website.com/"
-  - description: "An extremely positive quote from a rather insignificant person. Also great."
-    name: "Some Guy"
-    website: "This Page Is Visited By 12 Visitors A Month"
-    link: "http://geocities.blog.com/"
-  - description: "I pretend to love this game even though I do not actually understand it."
-    name: "Pretentious Bastard"
-    website: "Artsy Page"
-    link: "http://art.tumblr.com/"
-  - description: "HOLY SHIT SO AMAZING"
-    name: "Caps Guy"
-    website: "Angry Review"
-    link: "http://thispage.net/angrytube"
 
 "press-can-request-copy": TRUE
 "monetization-permission": monetize
 
-additionals: 
-  - title: "Company Link #1"
-    description: "This link is a link that might be useful. You can check it out at"
-    link: "http://somemusicsite.com/thislink"
+additionals:
+  - title: "JeuxAmateurs.fr"
+    description: "Main SwitchCode project, still WIP"
+    link: "http://jeuxamateurs.fr"
+  - title: "Alexis Launay on Twitter"
+    description: "Personal twitter"
+    link: "http://twitter.com/YoruNoHikage"
+  - title: "Kilian Ollivier on Twitter"
+    description: "Personal twitter"
+    link: "http://twitter.com/Brindesable"
 
 credits: 
-  - person: "John Doe"
-    role: "Artist, Freelancer"
-  - person: "Oliver Twist"
-    website: "www.olivertwist.com"
-    role: "Artist, Freelancer"
-  - person: "Jane Doette"
-    website: "www.olivertwist.com"
-    role: "Music, Freelancer"
+  - person: "Alexis Launay"
+    website: "alexislaunay.fr"
+    role: "Web & game developer, improvised artist when needed"
+  - person: "Kilian Ollivier"
+    website: "kilianollivier.fr"
+    role: "Web & game Developer"
 
 contacts: 
-  - name: Inquiries
-    address: "rami@vlambeer.com"
   - name: Twitter
-    address: "http://twitter.com/MyCompanyName"
+    address: "http://twitter.com/SwitchCode"
   - name: Facebook
-    address: "http://facebook.com/MyCompanyName"
-  - name: Web
-    address: "MyCompanyWebsite.com"
+    address: "http://facebook.com/SwitchCode"
