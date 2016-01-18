@@ -1,78 +1,116 @@
+@import url(https://fonts.googleapis.com/css?family=Quattrocento:400,700|Open+Sans:400,300,700);
+
+@media (max-width: 767px) {}
+
 body {
-	padding: 15px 0;
-	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-	font-size: 0.9em;
-	line-height:1.6em;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 0.9em;
+  line-height:1.6em;
+  margin: 0;
 }
 
-img {
-	width: 100%;
+.root {
+  max-width: 767px;
+  margin: auto;
 }
 
-#navigation h1.nav-header {
-	padding: 0 15px;
-	margin-bottom: 0;
+.container {}
+
+.container .container {
+  display: flex;
 }
 
-#navigation a.nav-header {
-	padding: 5px 15px;
-	font-weight: bold;
+.container .container .box {
+  flex: 1 1 auto;
 }
 
-#navigation ul.uk-nav {
-	padding: 15px 0;
+.box {
+  max-width: 600px;
+  padding: 0 8px;
 }
 
-#navigation p {
-	padding-bottom: 10px;
+h2, h3 {
+  font-family: 'Quattrocento', serif;
+  margin-top: 1.4em;
 }
 
-#navigation li.language-select select {
-	float: right;
+dt {
+  font-weight: bold;
+  margin-top: 10px;
 }
 
-#content h2 {
-	font-family: Georgia, "Times New Roman", Times, serif;s
+dt:first-child {
+  margin-top: 0;
 }
 
-#content img.header {
-	margin-bottom: 20px;
+dd {
+  margin-left: 0;
 }
 
-#content ul {
-	list-style-type: square;
+.project-list {
+  list-style-type: none;
 }
 
-#content li.done {
-	color: #008000;
-	text-decoration: line-through;
+.project-list li {
+  display: inline-block;
+  font-size: 120%;
 }
 
-#content div.images div {
-	padding-bottom: 25px;
+.inline-list {
+  display: inline-block;
 }
 
-#content p.images-text {
-	margin-top: -15px;
+.notice {
+  display: inline-block;
+  margin-bottom: 15px;
+  padding: 10px;
+  background: #ebf7fd;
+  color: #2d7091;
+  border: 1px solid rgba(45,112,145,.3);
+  border-radius: 4px;
+  text-shadow: 0 1px 0 #fff;
 }
 
-#content .iframe-container {
-	position: relative;
-	/* Magic! Makes sure the container is high enough to show the entire iframe 
-	 * Thanks to http://andmag.se/2011/11/responsive-embeds/ */
-	padding-bottom: 56.5%;
+blockquote {
+  display: inline-block;
 }
 
-#content iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
+blockquote p {
+  font-size: 1.3em;
+  line-height: 1.4em;
+  margin: .2em;
 }
 
-@media (max-width: 767px) {
-	h2 {
-		margin-top: 25px;
-	}
+blockquote p:before {
+  content: '“';
+}
+
+blockquote p:after {
+  content: '”';
+}
+
+blockquote footer {
+  text-align: right;
+}
+
+.iframe-container {
+  position: relative;
+  padding-bottom: 56.25%
+}
+
+.iframe-container iframe {
+  position: absolute;
+  top: 0;
+  lefT: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.feature-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.feature-list li {
+  margin: 8px 0;
 }
